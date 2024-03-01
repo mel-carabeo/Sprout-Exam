@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Sprout.Exam.WebApp/Sprout.Exam.Business/bin/Debug/netcoreapp3.1
+/Sprout.Exam.WebApp/Sprout.Exam.Common/bin/Debug/netcoreapp3.1
+/Sprout.Exam.WebApp/Sprout.Exam.Common/obj
+/Sprout.Exam.WebApp/Sprout.Exam.DataAccess/bin/Debug/netcoreapp3.1
+/Sprout.Exam.WebApp/Sprout.Exam.DataAccess/obj
+/Sprout.Exam.Business/bin/Debug/netcoreapp3.1
+/Sprout.Exam.Business/obj
+/Sprout.Exam.Common/bin/Debug/netcoreapp3.1
+/Sprout.Exam.Common/obj
+/Sprout.Exam.DataAccess/bin/Debug/netcoreapp3.1
+/Sprout.Exam.DataAccess/obj
